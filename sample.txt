@@ -1,2 +1,0 @@
-<<<<<<< HEAD
-Line 1: Hello from master branch
